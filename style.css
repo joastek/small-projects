@@ -1,0 +1,12 @@
+.hyperlinks {
+  display: block;
+
+  float: right;
+}
+a:first-child {
+  color: #000;
+}
+a {
+  text-decoration: none;
+  color: rgb(25, 95, 224);
+}
